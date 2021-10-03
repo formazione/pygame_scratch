@@ -1,0 +1,26 @@
+Documentation
+
+Modules
+================
+
+start.py
+	init pygame
+		main file
+	get_screen_size()
+		return the size of your monitor
+
+events.py
+	contains gameloop()
+
+
+Functions
+===============
+
+get_screen_size() # in start.pty
+	return the size of your monitor
+
+
+Attributes
+==========
+screen_size = width and height of the screen # in text.py main file
+screen = main surface # in text.pyt
